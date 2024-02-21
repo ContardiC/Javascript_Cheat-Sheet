@@ -7,6 +7,7 @@ Questo repository contiene un **cheat sheet** per JavaScript, progettato per ess
 - **Variabili e Tipi di Dati**: Dichiarazione di variabili, tipi di dati primitivi e complessi.
 - **Operatori**: Esempi di operatori aritmetici, di confronto e logici.
 - **Strutture di Controllo**: Utilizzo di `if`, `else`, `switch`, cicli `for` e `while`.
+-  **Manipolazione del D.O.M.**: 
 - **Funzioni**: Creazione e invocazione di funzioni.
 - **Array e Oggetti**: Lavorare con array e oggetti in JavaScript.
 - **ES6+ Features**: Sintassi moderna, come le arrow functions, template literals e altro.
