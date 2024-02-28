@@ -14,3 +14,8 @@ nomeFunzione('Valore1', 'Valore2');
 // Ciao dal corpo della funzione!
 // Parametro 1: Valore1
 // Parametro 2: Valore2
+
+// Dichiarazione di una seconda funzione
+function sayHello(){
+    alert("Hey Ciao");
+}
